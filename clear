@@ -1,0 +1,23 @@
+[33mcommit e9d8197d25c6b4699d93e214e276d4e74d44ac9f[m[33m ([m[1;36mHEAD -> [m[1;32mMyBranch[m[33m, [m[1;33mtag: v1.1[m[33m, [m[1;33mtag: v1,2[m[33m, [m[1;31morigin/MyBranch[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nizar khader <nizarkhader2@gmail.com>
+Date:   Fri Mar 10 03:50:38 2023 +0300
+
+    test3.txt added
+
+[33mcommit 41639d82c4968efbe60f0d4273f9bf20b4f828d4[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mMyNewBranch[m[33m)[m
+Author: Nizar khader <nizarkhader2@gmail.com>
+Date:   Fri Mar 10 03:24:25 2023 +0300
+
+    test2.text added
+
+[33mcommit 54b5cba2fbcd4c206f4ecb8735902ba18889c2d0[m
+Author: Nizar khader <nizarkhader2@gmail.com>
+Date:   Thu Mar 9 19:57:16 2023 +0300
+
+    added index.html and modified test1.txt
+
+[33mcommit c72ede146c63d6c2db8ebb480860c7b84b308d13[m
+Author: Nizar khader <nizarkhader2@gmail.com>
+Date:   Thu Mar 9 19:53:14 2023 +0300
+
+    added test1.txt
